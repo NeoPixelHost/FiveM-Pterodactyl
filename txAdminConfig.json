@@ -1,0 +1,19 @@
+{
+  "interface": "0.0.0.0",
+  "fxServerPort": "",
+  "txAdminPort": "",
+  "loginPageLogo": "https://i.imgur.com/TN97To4.png",
+  "defaults": {
+    "license": "",
+    "maxClients": "",
+    "mysqlHost": "",
+    "mysqlPort": "",
+    "mysqlUser": "",
+    "mysqlPassword": "",
+    "mysqlDatabase": ""
+  },
+  "customer": {
+    "name": "",
+    "password_hash": ""
+  }
+}
