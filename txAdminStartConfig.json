@@ -16,6 +16,7 @@
   "fxRunner": {
     "serverDataPath": "/home/container",
     "cfgPath": "/home/container/main.cfg",
+    "onesync": "on",
     "autostart": true
   }
 }
