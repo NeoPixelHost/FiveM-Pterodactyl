@@ -1,0 +1,21 @@
+{
+  "global": {
+    "serverName": "Servidor no Portal Pixel",
+    "language": "pt"
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": []
+  },
+  "webServer": {},
+  "discordBot": {
+    "enabled": false,
+    "token": null,
+    "announceChannel": null
+  },
+  "fxRunner": {
+    "serverDataPath": "/home/container",
+    "cfgPath": "/home/container/main.cfg",
+    "autostart": true
+  }
+}
