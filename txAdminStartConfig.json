@@ -5,7 +5,8 @@
   },
   "logger": {},
   "monitor": {
-    "restarterSchedule": []
+    "restarterSchedule": [],
+    "resourceStartingTolerance": 600
   },
   "webServer": {},
   "discordBot": {
