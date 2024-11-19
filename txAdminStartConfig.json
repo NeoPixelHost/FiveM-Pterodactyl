@@ -1,7 +1,8 @@
 {
   "global": {
     "serverName": "Servidor no Portal Pixel",
-    "language": "pt"
+    "language": "pt",
+    "menuEnabled": false
   },
   "logger": {},
   "monitor": {
